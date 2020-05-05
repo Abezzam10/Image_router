@@ -1,0 +1,21 @@
+
+h1 { font-family: "Carter One"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Carter One"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Carter One"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Carter One"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Carter One"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+  
+  #container {
+    padding: 1em 6em;
+  }
+  
+  #flash {
+    padding: 0.2em;
+    background: rgb(119, 0, 255);
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+  }
+  
+  .centered {
+    text-align: center;
+  }
+  
+  .bk-plot-layout {
+    margin: 0 auto;
+  }
