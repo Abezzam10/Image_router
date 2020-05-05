@@ -31,3 +31,12 @@ pip3 install these dependancies,
 Once, all the dependancies are installed and cloned, run "FLASK_APP=server.py flask run"
 
 The sample dataset I have used to get the images and train them are on sample aws s3 buckets. I imported them locally and trained the models on it.
+
+Project status until I resolve deployment:
+
+![HomePage](https://github.com/Abezzam10/Image_router/blob/master/Imgs/Home.png)
+
+
+After uploading your image, simply click on Submit to predict the image.
+
+![Predict](https://github.com/Abezzam10/Image_router/blob/master/Imgs/example.png)
