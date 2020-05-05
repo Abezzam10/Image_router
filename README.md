@@ -15,8 +15,8 @@ $ mkdir ~/venvs/
 $ virtualenv ~/venvs/appname
 ... # some output messages
 
-$ source ~/venvs/fuzzvis/bin/appname
-(fuzzvis) $ which pip
+$ source ~/venvs/das/bin/appname
+(das) $ which pip
 /home/das/venvs/bin/pip
 
 Then,
