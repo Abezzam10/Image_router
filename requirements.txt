@@ -1,12 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
-backports=1.0=py36hfa02d7e_1
-backports.weakref=1.0rc1=py36_0
-bleach=1.5.0=py36_0
 bokeh=0.12.10=py36hbb0e44a_0
-ca-certificates=2017.08.26=h1d4fec5_0
-certifi=2017.11.5=py36hf29ccca_0
 click=6.7=py36h5253387_0
 flask=0.12.2=py36hb24657c_0
 freetype=2.8=hab7d2ae_1
