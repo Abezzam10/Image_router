@@ -11,13 +11,13 @@ Setup:
 
 I am using a virtual environment to manage my dependancies.
 
-$ mkdir ~/venvs/
-$ virtualenv ~/venvs/appname
+`$ mkdir ~/venvs/`
+`$ virtualenv ~/venvs/appname`
 ... # some output messages
 
-$ source ~/venvs/das/bin/appname
-(das) $ which pip
-/home/das/venvs/bin/pip
+`$ source ~/venvs/das/bin/appname`
+`(das) $ which pip
+/home/das/venvs/bin/pip`
 
 Then,
 pip3 install these dependancies,
@@ -28,7 +28,8 @@ pip3 install these dependancies,
 5. TensorFlow
 6. Keras
 
-Once, all the dependancies are installed and cloned, run "FLASK_APP=server.py flask run"
+
+Once, all the dependancies are installed and cloned, run `FLASK_APP=server.py flask run`
 
 The sample dataset I have used to get the images and train them are on sample aws s3 buckets. I imported them locally and trained the models on it.
 
